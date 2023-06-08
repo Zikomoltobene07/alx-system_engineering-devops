@@ -1,1 +1,1 @@
-salam alaykom
+shell permissions
